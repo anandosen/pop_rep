@@ -1,0 +1,12 @@
+hba1c.grp4
+glucose.grp4
+creatanine.grp4
+bilirubin.grp4
+ldl.grp4
+ast.grp4
+alt.grp4
+hdl.grp4
+hemoglobin.grp4
+triglycerides.grp4
+cholesterol.grp4
+egfr.grp4
